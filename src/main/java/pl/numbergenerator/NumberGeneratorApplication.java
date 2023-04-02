@@ -1,4 +1,4 @@
-package pl.numbergenerator.numbergenerator;
+package pl.numbergenerator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

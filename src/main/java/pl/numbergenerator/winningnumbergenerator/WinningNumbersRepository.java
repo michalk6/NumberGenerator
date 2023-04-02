@@ -1,4 +1,5 @@
-package pl.lotto.winningnumbergenerator;
+package pl.numbergenerator.winningnumbergenerator;
+
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

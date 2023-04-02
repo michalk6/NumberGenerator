@@ -1,6 +1,7 @@
-package pl.lotto.winningnumbergenerator;
+package pl.numbergenerator.winningnumbergenerator;
 
-import pl.lotto.winningnumbergenerator.dto.WinningNumbersDto;
+
+import pl.numbergenerator.winningnumbergenerator.dto.WinningNumbersDto;
 
 class WinningNumbersMapper {
 

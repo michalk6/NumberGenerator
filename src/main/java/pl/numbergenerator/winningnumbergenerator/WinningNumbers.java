@@ -1,4 +1,4 @@
-package pl.lotto.winningnumbergenerator;
+package pl.numbergenerator.winningnumbergenerator;
 
 import lombok.Builder;
 import org.springframework.data.annotation.Id;

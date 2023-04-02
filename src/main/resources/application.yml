@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://admin:admin@localhost:27018/number-generator

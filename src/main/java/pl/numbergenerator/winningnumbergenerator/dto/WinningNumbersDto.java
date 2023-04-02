@@ -1,4 +1,4 @@
-package pl.lotto.winningnumbergenerator.dto;
+package pl.numbergenerator.winningnumbergenerator.dto;
 
 import java.time.LocalDateTime;
 import java.util.Set;
