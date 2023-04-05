@@ -29,10 +29,4 @@ public class NumberGeneratorController {
         log.info("logger finished, numbers: " + winningNumbersDto);
         return ResponseEntity.ok(winningNumbersDto);
     }
-
-    @GetMapping("/test")
-    public ResponseEntity<String> testRest() {
-        log.info("logger test microservice");
-        return ResponseEntity.ok("Returned from microservice");
-    }
 }
